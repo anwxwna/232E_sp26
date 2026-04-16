@@ -1,0 +1,15 @@
+[project]
+name = "232e-sp26"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "igraph>=1.0.0",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "networkx>=3.6.1",
+    "numpy>=2.4.4",
+    "powerlaw>=2.0.0",
+    "scipy>=1.17.1",
+]
